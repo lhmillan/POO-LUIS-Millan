@@ -3,6 +3,7 @@ public class Jogador {
     private String nome;
     private int idade;
     private String posicao;
+    
     public String getNome() {
         return nome;
     }
